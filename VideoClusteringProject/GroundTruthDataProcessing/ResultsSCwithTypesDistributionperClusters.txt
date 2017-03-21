@@ -1,0 +1,267 @@
+Classe1
+
+gaming	1
+educational	4
+literature	6
+technology	2
+default_category	7
+music_and_entertainment	1
+sports	2
+school_and_education	1
+videoblogging	3
+politics	4
+comedy	1
+documentary	1
+
+Classe2
+
+educational	4
+literature	5
+videoblogging	4
+technology	6
+default_category	13
+music_and_entertainment	3
+sports	1
+personal_or_auto-biographical	1
+web_development_and_sites	1
+health	1
+citizen_journalism	4
+politics	4
+the_mainstream_media	1
+comedy	2
+documentary	3
+
+Classe3
+
+conferences_and_other_events	2
+gaming	1
+educational	2
+literature	1
+movies_and_television	2
+technology	6
+default_category	9
+music_and_entertainment	2
+sports	2
+religion	1
+health	2
+videoblogging	2
+the_mainstream_media	2
+personal_or_auto-biographical	1
+documentary	2
+
+Classe4
+
+gaming	2
+art	1
+default_category	5
+sports	1
+videoblogging	3
+comedy	2
+technology	1
+music_and_entertainment	2
+
+Classe5
+
+educational	1
+movies_and_television	6
+technology	3
+default_category	6
+music_and_entertainment	5
+sports	2
+health	1
+citizen_journalism	1
+videoblogging	2
+comedy	3
+documentary	2
+food_and_drink	1
+
+Classe6
+
+gaming	4
+educational	1
+personal_or_auto-biographical	1
+art	3
+movies_and_television	2
+school_and_education	1
+default_category	9
+music_and_entertainment	13
+sports	2
+religion	1
+videoblogging	3
+politics	1
+comedy	2
+travel	2
+food_and_drink	1
+
+Classe7
+
+movies_and_television	18
+business	1
+default_category	1
+music_and_entertainment	2
+religion	2
+technology	2
+
+Classe8
+
+gaming	1
+educational	8
+movies_and_television	2
+school_and_education	1
+default_category	15
+music_and_entertainment	1
+religion	1
+videoblogging	1
+sports	3
+technology	4
+travel	2
+
+Classe9
+
+conferences_and_other_events	1
+art	1
+technology	3
+default_category	5
+music_and_entertainment	2
+the_environment	1
+sports	1
+personal_or_auto-biographical	1
+documentary	1
+
+Classe10
+
+educational	9
+literature	1
+art	1
+business	1
+technology	5
+default_category	9
+music_and_entertainment	2
+school_and_education	1
+health	1
+citizen_journalism	1
+videoblogging	6
+the_mainstream_media	1
+documentary	1
+food_and_drink	3
+
+Classe11
+
+religion	4
+default_category	2
+school_and_education	1
+politics	3
+comedy	3
+technology	4
+
+Classe12
+
+conferences_and_other_events	3
+educational	3
+default_category	1
+sports	1
+religion	8
+citizen_journalism	1
+politics	1
+technology	2
+
+Classe13
+
+educational	2
+movies_and_television	3
+business	1
+default_category	1
+religion	5
+politics	4
+technology	4
+
+Classe14
+
+gaming	1
+educational	14
+art	1
+movies_and_television	6
+business	1
+technology	1
+default_category	3
+religion	2
+documentary	2
+food_and_drink	1
+
+Classe15
+
+educational	4
+movies_and_television	4
+business	1
+default_category	2
+music_and_entertainment	1
+sports	2
+religion	1
+health	2
+citizen_journalism	1
+videoblogging	5
+personal_or_auto-biographical	1
+food_and_drink	1
+
+Classe16
+
+educational	9
+movies_and_television	2
+business	3
+default_category	8
+music_and_entertainment	1
+religion	2
+web_development_and_sites	2
+health	3
+citizen_journalism	4
+politics	10
+sports	4
+technology	1
+travel	2
+food_and_drink	1
+
+Classe17
+
+gaming	1
+educational	12
+art	1
+school_and_education	1
+default_category	4
+the_environment	1
+religion	4
+web_development_and_sites	1
+politics	3
+the_mainstream_media	4
+technology	6
+travel	1
+
+Classe18
+
+movies_and_television	2
+business	1
+videoblogging	1
+technology	2
+default_category	5
+sports	1
+religion	1
+citizen_journalism	2
+politics	1
+documentary	1
+
+Classe19
+
+gaming	1
+educational	3
+literature	3
+school_and_education	1
+technology	4
+default_category	8
+videoblogging	3
+religion	1
+citizen_journalism	3
+politics	7
+the_mainstream_media	1
+documentary	2
+travel	3
+food_and_drink	1
+

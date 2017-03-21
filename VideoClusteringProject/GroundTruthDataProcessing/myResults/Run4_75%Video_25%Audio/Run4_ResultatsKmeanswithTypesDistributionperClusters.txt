@@ -1,0 +1,284 @@
+Classe1
+
+gaming	2
+educational	14
+movies_and_television	4
+school_and_education	1
+technology	5
+default_category	8
+religion	3
+web_development_and_sites	1
+documentary	1
+35.8974358974
+Classe2
+
+gaming	5
+educational	1
+art	3
+movies_and_television	2
+school_and_education	1
+default_category	10
+music_and_entertainment	17
+sports	4
+religion	2
+videoblogging	6
+politics	1
+comedy	1
+technology	1
+travel	2
+30.3571428571
+Classe3
+
+gaming	1
+educational	4
+literature	4
+art	1
+business	1
+videoblogging	1
+default_category	7
+sports	2
+school_and_education	1
+citizen_journalism	4
+politics	9
+comedy	1
+technology	5
+travel	3
+food_and_drink	1
+20.0
+Classe4
+
+conferences_and_other_events	1
+educational	3
+technology	3
+default_category	4
+religion	1
+citizen_journalism	1
+videoblogging	3
+documentary	1
+food_and_drink	2
+21.0526315789
+Classe5
+
+conferences_and_other_events	1
+gaming	1
+educational	5
+personal_or_auto-biographical	2
+art	1
+movies_and_television	6
+technology	2
+default_category	5
+music_and_entertainment	4
+sports	1
+religion	2
+health	1
+citizen_journalism	1
+videoblogging	4
+the_mainstream_media	1
+comedy	3
+documentary	2
+travel	2
+food_and_drink	1
+13.3333333333
+Classe6
+
+conferences_and_other_events	2
+educational	1
+art	1
+default_category	6
+music_and_entertainment	1
+religion	1
+videoblogging	1
+personal_or_auto-biographical	1
+technology	3
+35.2941176471
+Classe7
+
+educational	2
+movies_and_television	5
+school_and_education	1
+default_category	4
+music_and_entertainment	2
+religion	1
+videoblogging	3
+politics	1
+the_mainstream_media	1
+technology	1
+23.8095238095
+Classe8
+
+educational	6
+art	2
+movies_and_television	7
+school_and_education	1
+technology	3
+default_category	7
+music_and_entertainment	3
+sports	1
+religion	3
+health	1
+videoblogging	3
+comedy	1
+documentary	2
+food_and_drink	1
+17.0731707317
+Classe9
+
+educational	3
+movies_and_television	1
+business	2
+default_category	1
+web_development_and_sites	1
+citizen_journalism	3
+politics	4
+travel	1
+food_and_drink	1
+23.5294117647
+Classe10
+
+educational	5
+technology	2
+default_category	1
+religion	4
+citizen_journalism	1
+videoblogging	1
+documentary	1
+travel	1
+food_and_drink	1
+29.4117647059
+Classe11
+
+gaming	1
+educational	5
+technology	4
+default_category	9
+sports	1
+religion	1
+health	1
+videoblogging	2
+politics	3
+the_mainstream_media	1
+documentary	1
+31.0344827586
+Classe12
+
+business	1
+default_category	1
+religion	1
+politics	4
+comedy	2
+technology	2
+36.3636363636
+Classe13
+
+educational	1
+religion	6
+default_category	4
+school_and_education	1
+citizen_journalism	1
+politics	3
+technology	3
+31.5789473684
+Classe14
+
+educational	6
+business	1
+default_category	2
+sports	5
+the_environment	1
+religion	1
+citizen_journalism	2
+politics	6
+the_mainstream_media	4
+comedy	1
+technology	3
+travel	1
+18.1818181818
+Classe15
+
+conferences_and_other_events	1
+educational	2
+movies_and_television	20
+business	2
+technology	2
+default_category	3
+music_and_entertainment	2
+the_environment	1
+religion	1
+health	1
+sports	2
+documentary	1
+52.6315789474
+Classe16
+
+conferences_and_other_events	1
+gaming	1
+educational	1
+literature	1
+religion	2
+technology	4
+default_category	11
+music_and_entertainment	1
+sports	3
+personal_or_auto-biographical	1
+health	3
+citizen_journalism	1
+videoblogging	2
+the_mainstream_media	2
+comedy	1
+documentary	2
+food_and_drink	2
+28.2051282051
+Classe17
+
+educational	2
+literature	3
+videoblogging	2
+technology	1
+default_category	11
+music_and_entertainment	3
+sports	1
+personal_or_auto-biographical	1
+web_development_and_sites	1
+citizen_journalism	3
+politics	2
+comedy	1
+documentary	2
+33.3333333333
+Classe18
+
+gaming	1
+educational	4
+literature	8
+movies_and_television	1
+technology	4
+default_category	10
+music_and_entertainment	1
+sports	2
+school_and_education	1
+videoblogging	4
+politics	4
+comedy	2
+documentary	1
+23.2558139535
+Classe19
+
+technology	4
+default_category	4
+documentary	1
+educational	3
+movies_and_television	1
+30.7692307692
+Classe20
+
+educational	8
+business	2
+default_category	5
+music_and_entertainment	1
+religion	4
+web_development_and_sites	1
+health	3
+videoblogging	1
+politics	1
+technology	4
+26.6666666667
+561.779168873

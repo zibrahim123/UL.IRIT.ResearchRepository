@@ -1,0 +1,272 @@
+Classe1
+
+gaming	2
+comedy	2
+art	1
+default_category	2
+music_and_entertainment	3
+sports	1
+videoblogging	5
+personal_or_auto-biographical	2
+27.7777777778
+Classe2
+
+conferences_and_other_events	1
+educational	1
+literature	3
+art	1
+religion	1
+default_category	8
+music_and_entertainment	2
+personal_or_auto-biographical	1
+citizen_journalism	1
+videoblogging	3
+comedy	1
+technology	5
+28.5714285714
+Classe3
+
+gaming	1
+educational	4
+literature	6
+technology	3
+default_category	7
+music_and_entertainment	1
+sports	2
+school_and_education	1
+videoblogging	3
+politics	4
+comedy	2
+documentary	1
+20.0
+Classe4
+
+gaming	2
+educational	18
+art	1
+movies_and_television	4
+school_and_education	2
+technology	4
+default_category	11
+sports	1
+religion	3
+web_development_and_sites	1
+videoblogging	2
+comedy	1
+documentary	1
+food_and_drink	1
+34.6153846154
+Classe5
+
+gaming	3
+educational	1
+art	3
+movies_and_television	3
+school_and_education	1
+default_category	8
+music_and_entertainment	14
+sports	3
+religion	2
+health	1
+videoblogging	1
+politics	1
+comedy	1
+travel	2
+food_and_drink	1
+31.1111111111
+Classe6
+
+gaming	1
+educational	3
+literature	3
+school_and_education	1
+technology	4
+default_category	8
+videoblogging	4
+religion	1
+citizen_journalism	3
+politics	7
+the_mainstream_media	1
+documentary	1
+travel	3
+food_and_drink	1
+19.512195122
+Classe7
+
+educational	2
+literature	2
+art	2
+movies_and_television	3
+business	1
+videoblogging	1
+default_category	1
+sports	1
+religion	2
+citizen_journalism	2
+politics	2
+documentary	2
+food_and_drink	1
+13.6363636364
+Classe8
+
+educational	3
+technology	4
+default_category	4
+health	1
+videoblogging	2
+politics	3
+the_mainstream_media	1
+documentary	1
+21.0526315789
+Classe9
+
+conferences_and_other_events	3
+gaming	1
+educational	1
+literature	1
+movies_and_television	2
+technology	4
+default_category	8
+music_and_entertainment	2
+sports	2
+religion	1
+health	3
+citizen_journalism	1
+videoblogging	1
+the_mainstream_media	2
+personal_or_auto-biographical	1
+documentary	1
+23.5294117647
+Classe10
+
+educational	9
+movies_and_television	3
+videoblogging	6
+technology	5
+default_category	8
+music_and_entertainment	2
+religion	4
+health	1
+citizen_journalism	1
+politics	1
+the_mainstream_media	1
+documentary	1
+food_and_drink	3
+20.0
+Classe11
+
+educational	2
+business	1
+school_and_education	1
+default_category	2
+religion	8
+citizen_journalism	1
+politics	4
+comedy	2
+technology	6
+29.6296296296
+Classe12
+
+gaming	1
+educational	3
+personal_or_auto-biographical	1
+videoblogging	1
+default_category	6
+music_and_entertainment	2
+sports	1
+religion	2
+web_development_and_sites	1
+citizen_journalism	1
+politics	1
+comedy	1
+documentary	2
+26.0869565217
+Classe13
+
+conferences_and_other_events	1
+educational	1
+movies_and_television	8
+technology	6
+default_category	8
+music_and_entertainment	5
+sports	1
+religion	3
+health	1
+citizen_journalism	1
+videoblogging	2
+comedy	2
+documentary	2
+food_and_drink	1
+19.0476190476
+Classe14
+
+conferences_and_other_events	1
+movies_and_television	18
+business	2
+technology	2
+default_category	1
+music_and_entertainment	2
+the_environment	1
+religion	1
+videoblogging	1
+sports	2
+documentary	1
+56.25
+Classe15
+
+gaming	1
+educational	8
+movies_and_television	3
+school_and_education	1
+default_category	15
+music_and_entertainment	1
+religion	2
+videoblogging	1
+sports	2
+technology	3
+travel	2
+38.4615384615
+Classe16
+
+educational	6
+literature	1
+movies_and_television	2
+business	2
+technology	3
+default_category	5
+web_development_and_sites	1
+citizen_journalism	3
+politics	5
+documentary	1
+travel	1
+food_and_drink	1
+19.3548387097
+Classe17
+
+movies_and_television	1
+technology	2
+default_category	6
+sports	1
+citizen_journalism	2
+politics	2
+documentary	1
+40.0
+Classe18
+
+the_environment	1
+educational	14
+business	3
+default_category	5
+music_and_entertainment	1
+sports	5
+religion	3
+web_development_and_sites	1
+health	3
+citizen_journalism	1
+politics	8
+the_mainstream_media	4
+comedy	1
+technology	5
+travel	2
+24.5614035088
+493.198290057
